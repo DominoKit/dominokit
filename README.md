@@ -1,2 +1,2 @@
-# dominokit
-BOM for dominokit dependencies
+# Dominokit BOM
+BOM for Dominokit dependencies
